@@ -1,3 +1,5 @@
+//Shipping cost calculation
+console.log(`Task 2: Shipping cost calculation`);
 function getShippingMessage(country, price, deliveryFree) {
   const totalPrice = price + deliveryFree;
   // console.log(`Shipping to ${country} will cost ${totalPrice} credits`);

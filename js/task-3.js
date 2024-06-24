@@ -1,3 +1,5 @@
+//elementWidth calculation
+console.log(`Task 3: elementWidth calculation`);
 function getElementWidth(content, padding, border) {
     // Convert values to numbers
     const contentValue = parseFloat(content);
